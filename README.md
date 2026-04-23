@@ -128,11 +128,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramasamy-loganathan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramasamy-loganathan&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ramasamy-loganathan&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -157,6 +157,6 @@ Anna University · 2008 – 2012
 
 *"Code is not just about solving problems — it's about building solutions that last."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ramasamy-loganathan&color=blueviolet&style=flat)
 
 </div>
