@@ -89,8 +89,8 @@ Anna University | 2008 – 2012
 
 ## 📊 GitHub Stats
 
-![Ramasamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Ramasamy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramasamy-loganathan&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramasamy-loganathan&layout=compact&theme=tokyonight)
 
 ---
 
